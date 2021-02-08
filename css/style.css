@@ -1,0 +1,30 @@
+h1{
+    padding: 15px;    
+    font-size: 25px;
+    text-align: left;
+    font-weight : bold;
+}
+
+.color-texto{
+    color: rgb(69, 78, 88);
+}
+
+.color-valores {
+    color:rgb(41, 113, 180);
+    font-weight: bold;
+}
+
+.imagen {
+    margin: auto;
+ }
+ 
+ .texto-contenido {     
+     /*background-color: blue;*/
+     height: 68%;
+     font-size: 13px;
+ }
+
+.caja-texto{
+    width: 70%;
+}
+
